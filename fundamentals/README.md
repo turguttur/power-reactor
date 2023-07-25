@@ -69,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+# NOTES
+- React allows you to creacte reusable and reactive components consisting of HTML and JS (and CSS) = DECLARATIVE APPROACH
+- Put new components into a files. It's better way to organize our code. Under the components folder
+- In react basically you create a component tree.
+- 

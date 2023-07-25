@@ -1,2 +1,66 @@
 # power-reactor
 master in react for better buttons
+
+# Initialization 
+
+# Roadmap
+- CLI Tools
+    - [ ]  Vite
+    - [ ]  Create React App
+- Fundamentals
+    - [ ]  Functional Components
+    - [ ]  Class Components (optional)
+    - [ ]  JSX
+    - [ ]  Props
+    - [ ]  State
+    - [ ]  useState and useEffect Hooks
+    - [ ]  setState and Component Lifecycle methods
+    - [ ]  Conditional Rendering
+    - [ ]  Lists and Keys
+    - [ ]  Building simple forms
+    - [ ]  Composition vs. Inheritance
+- Advanced Topics
+    - [ ]  context
+    - [ ]  refs
+    - [ ]  Error Boundaries
+    - [ ]  Portals
+    - [ ]  Render Props
+    - [ ]  Higher Order Components
+    - [ ]  Reconciliation
+- Hooks
+    - [ ]  useContext
+    - [ ]  useReducer
+    - [ ]  useRef
+    - [ ]  useMemo
+    - [ ]  useCallback
+    - [ ]  Custom Hooks
+- State Management
+    - [ ]  Redux
+    - [ ]  Apollo Client
+    - [ ]  React Query
+- Routers
+    - [ ]  React Router
+- Styling
+    - [ ]  CSS Modules
+    - [ ]  Styled Component
+    - [ ]  Tailwind CSS
+    - [ ]  Material UI
+    - [ ]  Chakra UI
+    - [ ]  Ant Design
+- Forms
+    - [ ]  Formik
+    - [ ]  React Hook Form
+    - [ ]  Final Form
+- Testing
+    - [ ]  Jest
+    - [ ]  React Testing Library
+    - [ ]  Cypress
+- API Calls
+    - [ ]  axios
+    - [ ]  react-query
+    - [ ]  apollo
+- Misc
+    - [ ]  Typescript
+    - [ ]  Storybook
+    - [ ]  React i18Next
+    - [ ]  Firebase, Superbase

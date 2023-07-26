@@ -73,4 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - React allows you to creacte reusable and reactive components consisting of HTML and JS (and CSS) = DECLARATIVE APPROACH
 - Put new components into a files. It's better way to organize our code. Under the components folder
 - In react basically you create a component tree.
-- 
+- Expressions in React written inside "{}".
+- Passing data with props => Props are the "attributes" of your "custom HTML elements" (components)
+- Composition => children props
